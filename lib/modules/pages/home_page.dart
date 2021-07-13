@@ -56,7 +56,7 @@ class _HomePageState extends State<HomePage> {
                         ),
                         Positioned(
                           top: 4.0,
-                          right: 60.0,
+                          right: 50.0,
                           child: CircleAvatar(
                             radius: 36.0,
                             child: Text(
